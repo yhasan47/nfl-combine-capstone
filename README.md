@@ -1,3 +1,3 @@
 # NFL Combine and Players Stats Capstone
 
-![alt text](nfl.jpg)
+![alt text](/Users/nejbirhasan/Desktop/nfl.jpg)
